@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mysql://127.0.0.1:3306/studentv1
+spring.datasource.username=Zouthen
+spring.datasource.password=Xhj49ggu
+
+spring.jpa.hibernate.ddl-auto=create-drop
+
+spring.jpa.show-sql=true
