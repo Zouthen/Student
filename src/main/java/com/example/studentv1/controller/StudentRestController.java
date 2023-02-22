@@ -11,7 +11,7 @@ import java.time.LocalTime;
 import java.util.List;
 
 @RestController
-public class StudentRestContoller {
+public class StudentRestController {
 
     @Autowired
     StudentRepository studentRepository;
